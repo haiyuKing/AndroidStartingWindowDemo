@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 应用启动页(StartingWindow)的theme的背景色 -->
+    <color name="startingwindow_bgcolor">#00bfff</color>
+</resources>
